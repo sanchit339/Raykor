@@ -50,7 +50,8 @@ The final converted .parquet file is hosted on [HuggingFace Datasets](https://hu
 
 To run the model:
 1. Open the provided Google Colab notebook: [Run Inference Notebook](https://colab.research.google.com/drive/1Bnzy_lzENKtJBWWia7qsbnolLLQ0ec6U?usp=sharing).
-2. Click on `Run All` in the toolbar to execute all cells (see included image for reference).
+2. The Runtime for the current model in freetier is t4 GPU with memory of 16 gb.
+3. Click on `Run All` in the toolbar to execute all cells (see included image for reference).
 <br>
 <img src="./Assets/RunAll.jpg" alt="Run All Steps" width="400"/>
 ### Post-Training
