@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the tools and workflows for converting clinical trials data from JSON to a more compact and efficient .parquet format. The dataset used comprises the top 2000 records from [ClinicalTrials.gov](https://clinicaltrials.gov/search). The purpose of this conversion is to facilitate faster data processing and model training phases in machine learning workflows.
+This repository contains the tools and workflows for converting clinical trials data from JSON to a more compact and efficient .parquet format. The dataset used comprises the top 2000 records from [ClinicalTrials.gov](https://clinicaltrials.gov/search). The purpose of this conversion is to facilitate faster data processing and model training phases in Model learning process.
 
 ## Dataset Description
 
